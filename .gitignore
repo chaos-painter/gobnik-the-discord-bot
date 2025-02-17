@@ -1,2 +1,13 @@
+
+# Virtual environment
 .venv/
 venv
+
+# Environment variables
+.env
+
+# Data
+frames
+text_frames
+ascii_image.txt
+bad_apple.mp4
